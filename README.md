@@ -1,6 +1,5 @@
 # learn-proxmox
 
-- https://www.youtube.com/watch?v=iVQUanQUhDA
 - https://www.youtube.com/watch?v=dvyeoDBUtsU
 - https://www.youtube.com/watch?v=1nf3WOEFq1Y
 - https://www.youtube.com/watch?v=iVQUanQUhDA
